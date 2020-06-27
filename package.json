@@ -1,0 +1,19 @@
+{
+  "name": "@biovision/votes",
+  "version": "0.0.1",
+  "description": "JS part for biovision-votes gem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biovision/npm-votes.git"
+  },
+  "author": "Maxim Khan-Magomedov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biovision/npm-votes/issues"
+  },
+  "homepage": "https://github.com/Biovision/npm-votes#readme"
+}
